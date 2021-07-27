@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote
+END
+WorldLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/WorldLocation.java
+END
+WorldRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/WorldRegistry.java
+END
+WorldChannelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/WorldChannelInterface.java
+END
+WorldLoginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/WorldLoginInterface.java
+END
+CheaterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/CheaterData.java
+END
+WorldChannelCommonOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/remote/WorldChannelCommonOperations.java
+END

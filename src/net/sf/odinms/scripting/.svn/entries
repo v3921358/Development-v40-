@@ -1,0 +1,65 @@
+8
+
+dir
+988
+https://odinms.svn.sourceforge.net/svnroot/odinms/odinms/trunk/net.sf.odinms/src/net/sf/odinms/scripting
+https://odinms.svn.sourceforge.net/svnroot/odinms
+
+
+
+2008-06-11T20:52:50.639593Z
+972
+frzme
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ef53f0d-f60c-4604-b993-9012e4bbd747
+
+reactor
+dir
+
+npc
+dir
+
+AbstractPlayerInteraction.java
+file
+
+
+
+
+2008-06-16T04:07:45.071125Z
+f5c01658cbfb3a6df83a71e25e317f34
+2008-06-10T22:39:16.325914Z
+963
+frzme
+has-props
+
+event
+dir
+
+portal
+dir
+
+AbstractScriptManager.java
+file
+
+
+
+
+2008-06-01T12:35:59.140625Z
+68390fdcc10190a659721cac51dfdb1c
+2008-05-25T21:17:14.582573Z
+935
+frzme
+

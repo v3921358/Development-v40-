@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/odinms/!svn/ver/987/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages
+END
+CommandProcessorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/CommandProcessorMBean.java
+END
+MessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/MessageCallback.java
+END
+WhisperMapleClientMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/WhisperMapleClientMessageCallback.java
+END
+CommandDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/odinms/!svn/ver/986/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/CommandDefinition.java
+END
+ServernoticeMapleClientMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/ServernoticeMapleClientMessageCallback.java
+END
+StringMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/916/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/StringMessageCallback.java
+END
+CommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/odinms/!svn/ver/987/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/CommandProcessor.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/odinms/!svn/ver/981/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/Command.java
+END
+IllegalCommandSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/odinms/!svn/ver/981/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/messages/IllegalCommandSyntaxException.java
+END

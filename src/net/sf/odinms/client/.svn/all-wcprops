@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/odinms/!svn/ver/988/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client
+END
+Equip.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/Equip.java
+END
+BuddylistEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/BuddylistEntry.java
+END
+MapleWeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleWeaponType.java
+END
+MaplePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MaplePet.java
+END
+LoginCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/odinms/!svn/ver/910/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/LoginCrypto.java
+END
+MapleStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/odinms/!svn/ver/950/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleStat.java
+END
+ISkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/ISkill.java
+END
+MapleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleJob.java
+END
+MapleInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/976/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleInventory.java
+END
+IEquip.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/IEquip.java
+END
+InventoryContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/InventoryContainer.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/BuddyList.java
+END
+MapleInventoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleInventoryType.java
+END
+RunnableWithResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/RunnableWithResult.java
+END
+MapleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/odinms/!svn/ver/988/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleClient.java
+END
+MapleQuestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/odinms/!svn/ver/897/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleQuestStatus.java
+END
+CharacterNameAndId.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/CharacterNameAndId.java
+END
+IItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/IItem.java
+END
+MapleBuffStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/odinms/!svn/ver/973/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleBuffStat.java
+END
+MapleKeyBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleKeyBinding.java
+END
+SkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/odinms/!svn/ver/968/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/SkillFactory.java
+END
+MapleCharacterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleCharacterUtil.java
+END
+MapleCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/981/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleCharacter.java
+END
+LoginCryptoLegacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/odinms/!svn/ver/907/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/LoginCryptoLegacy.java
+END
+InventoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/InventoryException.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/odinms/!svn/ver/988/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/Item.java
+END
+ExpTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/ExpTable.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/odinms/!svn/ver/884/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/Skill.java
+END
+MapleSkinColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/MapleSkinColor.java
+END

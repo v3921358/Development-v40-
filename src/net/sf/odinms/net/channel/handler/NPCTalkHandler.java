@@ -1,0 +1,44 @@
+/*
+	This file is part of the OdinMS Maple Story Server
+    Copyright (C) 2008 Patrick Huy <patrick.huy@frz.cc> 
+                       Matthias Butz <matze@odinms.de>
+                       Jan Christian Meyer <vimes@odinms.de>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License version 3
+    as published by the Free Software Foundation. You may not use, modify
+    or distribute this program under any other version of the
+    GNU Affero General Public License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+package net.sf.odinms.net.channel.handler;
+
+import net.sf.odinms.client.MapleClient;
+import net.sf.odinms.net.AbstractMaplePacketHandler;
+import net.sf.odinms.scripting.npc.NPCScriptManager;
+import net.sf.odinms.server.life.MapleNPC;
+import net.sf.odinms.tools.data.input.SeekableLittleEndianAccessor;
+
+public class NPCTalkHandler extends AbstractMaplePacketHandler {
+	@Override
+	public void handlePacket(SeekableLittleEndianAccessor slea, MapleClient c) {	
+		int oid = slea.readInt();
+		MapleNPC npc = (MapleNPC) c.getPlayer().getMap().getMapObject(oid);
+		if (npc.hasShop()) {
+                    npc.sendShop(c);
+		} else {
+                    // TODO: v40 beta does not use packets to read npc's from wz..
+                    // so, we must cache npc data and check if file exists for this 
+                    // npcid, if not load string data from the cache
+                    NPCScriptManager.getInstance().start(c, npc.getId());
+		}
+	}
+}

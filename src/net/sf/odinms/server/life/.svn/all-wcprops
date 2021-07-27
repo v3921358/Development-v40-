@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/odinms/!svn/ver/967/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life
+END
+MapleNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/odinms/!svn/ver/967/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleNPC.java
+END
+ElementalEffectiveness.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/ElementalEffectiveness.java
+END
+SpawnPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/SpawnPoint.java
+END
+MapleMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/911/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleMonsterStats.java
+END
+MapleLifeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/odinms/!svn/ver/957/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleLifeFactory.java
+END
+MapleMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/odinms/!svn/ver/947/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleMonster.java
+END
+MapleMonsterInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/odinms/!svn/ver/946/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleMonsterInformationProvider.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/Element.java
+END
+AbstractLoadedMapleLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/AbstractLoadedMapleLife.java
+END
+MonsterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MonsterListener.java
+END
+MapleNPCStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/life/MapleNPCStats.java
+END

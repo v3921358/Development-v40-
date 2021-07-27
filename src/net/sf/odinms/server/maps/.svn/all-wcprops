@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/odinms/!svn/ver/968/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps
+END
+MapleGenericPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/odinms/!svn/ver/968/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleGenericPortal.java
+END
+MapleReactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/odinms/!svn/ver/935/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleReactor.java
+END
+AbstractAnimatedMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/AbstractAnimatedMapleMapObject.java
+END
+SummonMovementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/SummonMovementType.java
+END
+AnimatedMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/AnimatedMapleMapObject.java
+END
+AbstractMapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/AbstractMapleMapObject.java
+END
+MapleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/odinms/!svn/ver/963/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMap.java
+END
+MapleMapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapObject.java
+END
+MapleDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleDoor.java
+END
+MapleMapFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/963/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapFactory.java
+END
+MapleFoothold.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleFoothold.java
+END
+MapleFootholdTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleFootholdTree.java
+END
+MapleMapObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/odinms/!svn/ver/921/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapObjectType.java
+END
+MapleReactorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/odinms/!svn/ver/921/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleReactorFactory.java
+END
+MapleMapItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapItem.java
+END
+MapleMapEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/odinms/!svn/ver/923/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapEffect.java
+END
+MapleSummon.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleSummon.java
+END
+SavedLocationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/SavedLocationType.java
+END
+MapleMapPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMapPortal.java
+END
+MapleMist.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleMist.java
+END
+MapleReactorStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/921/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/maps/MapleReactorStats.java
+END

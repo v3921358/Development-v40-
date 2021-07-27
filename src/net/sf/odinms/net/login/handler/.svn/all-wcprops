@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/odinms/!svn/ver/959/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler
+END
+ServerStatusRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/ServerStatusRequestHandler.java
+END
+CharlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/CharlistRequestHandler.java
+END
+AfterLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/AfterLoginHandler.java
+END
+RelogRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/RelogRequestHandler.java
+END
+ServerlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/odinms/!svn/ver/892/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/ServerlistRequestHandler.java
+END
+CharSelectedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/890/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/CharSelectedHandler.java
+END
+DeleteCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/DeleteCharHandler.java
+END
+CreateCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/CreateCharHandler.java
+END
+LoginPasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/odinms/!svn/ver/959/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/LoginPasswordHandler.java
+END
+CheckCharNameHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/handler/CheckCharNameHandler.java
+END

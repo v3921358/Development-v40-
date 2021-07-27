@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/odinms/!svn/ver/887/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement
+END
+ChairMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/887/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/ChairMovement.java
+END
+RelativeLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/RelativeLifeMovement.java
+END
+AbsoluteLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/AbsoluteLifeMovement.java
+END
+TeleportMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/TeleportMovement.java
+END
+LifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/LifeMovement.java
+END
+ChangeEquipSpecialAwesome.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/ChangeEquipSpecialAwesome.java
+END
+AbstractLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/AbstractLifeMovement.java
+END
+LifeMovementFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/server/movement/LifeMovementFragment.java
+END

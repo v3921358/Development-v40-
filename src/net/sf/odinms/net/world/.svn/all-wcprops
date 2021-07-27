@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world
+END
+WorldRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/WorldRegistryImpl.java
+END
+CharacterIdChannelPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/CharacterIdChannelPair.java
+END
+WorldChannelInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/WorldChannelInterfaceImpl.java
+END
+MaplePartyCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/MaplePartyCharacter.java
+END
+WorldServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/WorldServer.java
+END
+WorldLoginInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/odinms/!svn/ver/972/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/WorldLoginInterfaceImpl.java
+END
+PartyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/PartyOperation.java
+END
+MapleParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/world/MapleParty.java
+END

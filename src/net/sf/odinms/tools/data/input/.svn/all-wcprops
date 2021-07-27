@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/odinms/!svn/ver/916/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input
+END
+ByteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/ByteInputStream.java
+END
+LittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/LittleEndianAccessor.java
+END
+ByteArrayByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/odinms/!svn/ver/916/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/ByteArrayByteStream.java
+END
+RandomAccessByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/RandomAccessByteStream.java
+END
+SeekableInputStreamBytestream.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/SeekableInputStreamBytestream.java
+END
+GenericSeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/GenericSeekableLittleEndianAccessor.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/StreamUtil.java
+END
+InputStreamByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/InputStreamByteStream.java
+END
+SeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/SeekableLittleEndianAccessor.java
+END
+GenericLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/odinms/!svn/ver/891/odinms/trunk/net.sf.odinms/src/net/sf/odinms/tools/data/input/GenericLittleEndianAccessor.java
+END

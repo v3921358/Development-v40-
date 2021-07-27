@@ -1,0 +1,72 @@
+Development v40 Beta Edition progress/todo:
+_________________
+|    WORKING:   |
+_________________
+- Portals/Warping
+- Changing Channels work
+- 19 Working Channels
+- Taking damage works
+- Talking works
+- Emotions work
+- NPCs work
+- Inventories work (equip, unequip, move, !item, drop)
+- Skill Points and Ability Points fully working
+- Healing HP/MP works
+- Skills and buffs (plus their animations) fully working
+- Dropping mesos works
+- Fame works
+- Player personal info (right-clicking a player) works
+- Mobs work
+- Parties work
+- Gaining EXP works
+- Leveling/Job changing works
+- Buddylists work
+- Trading system works (Trade requests)
+- Consumable items work
+- Return scrolls work
+- Cash items (NX) work and have expiration
+- Cash shop works (operations don't)
+- Warrior/Sword-using attacks work
+- Magician/Wand and staff-using attacks work
+- Bowman/Thief bow and claw-using attacks work
+- Commands work
+- Chairs/Seats work 
+- Reporting system works
+- Summons (Silver Hawk, Summon Dragon, etc) work
+- Puppets (on Bowmans) work
+- Messenger works
+- Storages work
+- Shops work
+- Magician Mists/Explosion attacks work
+- Magician Mystic Doors work
+- Ring Effects work
+- Pets work
+- Deleting characters works
+- Memos/Notes work
+- Teleport rocks work
+- OX Quiz works
+_________________
+|  NOT WORKING: |
+_________________
+- Scrolling doesn't work
+- Cash Shop operations don't work
+- Boats don't work
+- Maple Events don't work
+_________________
+|     TODO:     |
+_________________
+- GMS-like NPCs
+- GMS-like shops
+- Party Quests
+- Block character creation packet editing
+- Remove RMI and clean out a lot of v55 useless clutter
+- Remove useless NPCs that this source came with (digitalms crap)
+_________________
+|  KNOWN BUGS:  |
+_________________
+- GM roar sometimes crashes the map
+- All NPCs require scripts so they will load a I'm not coded yet script instead
+- Omok and Matchcard games give WZ error upon play
+- Cash Shop sometimes pops up that the item has been added to your wishlist
+- Messenger positions don't save to the database and can cause a dc upon entering
+- Player Shop interactions aren't complete so you can't add items or open

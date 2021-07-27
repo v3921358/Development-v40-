@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/odinms/!svn/ver/919/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/mina
+END
+MaplePacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/mina/MaplePacketEncoder.java
+END
+MapleCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/mina/MapleCodecFactory.java
+END
+MaplePacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/odinms/!svn/ver/919/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/mina/MaplePacketDecoder.java
+END

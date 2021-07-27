@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/odinms/!svn/ver/984/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/anticheat
+END
+CheatTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/odinms/!svn/ver/984/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/anticheat/CheatTracker.java
+END
+CheatingOffense.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/odinms/!svn/ver/944/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/anticheat/CheatingOffense.java
+END
+CheatingOffensePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/anticheat/CheatingOffensePersister.java
+END
+CheatingOffenseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/client/anticheat/CheatingOffenseEntry.java
+END

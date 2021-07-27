@@ -1,0 +1,95 @@
+8
+
+dir
+988
+https://odinms.svn.sourceforge.net/svnroot/odinms/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login
+https://odinms.svn.sourceforge.net/svnroot/odinms
+
+
+
+2008-06-06T16:03:36.428435Z
+959
+frzme
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ef53f0d-f60c-4604-b993-9012e4bbd747
+
+LoginServer.java
+file
+
+
+
+
+2008-06-16T04:07:46.071125Z
+bad90abbc5062e76056a0ecfea362e05
+2008-06-05T20:26:24.838367Z
+951
+frzme
+
+LoginServerMBean.java
+file
+
+
+
+
+2008-06-01T12:36:02.046875Z
+de59d13187e6542b51a13a55b04a0881
+2008-05-17T18:39:28.784643Z
+919
+frzme
+has-props
+
+LoginWorker.java
+file
+
+
+
+
+2008-06-01T12:36:02.062500Z
+979f883e1621df29d187a6e6cbaf9aae
+2008-05-06T11:09:47.340016Z
+902
+matze0007
+
+LoginWorldInterfaceImpl.java
+file
+
+
+
+
+2008-06-01T12:36:02.093750Z
+81cb71aef3bac9cc4a2904d19c723c48
+2008-04-26T22:56:05.908378Z
+880
+frzme
+
+RankingWorker.java
+file
+
+
+
+
+2008-06-01T12:36:02.109375Z
+f6139d987a5147001447b26e8e670579
+2008-05-08T16:36:07.497636Z
+907
+frzme
+
+remote
+dir
+
+handler
+dir
+

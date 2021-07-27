@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/odinms/!svn/ver/959/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/951/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/LoginServer.java
+END
+LoginServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/odinms/!svn/ver/919/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/LoginServerMBean.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/odinms/!svn/ver/902/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/LoginWorker.java
+END
+LoginWorldInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/LoginWorldInterfaceImpl.java
+END
+RankingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/odinms/!svn/ver/907/odinms/trunk/net.sf.odinms/src/net/sf/odinms/net/login/RankingWorker.java
+END
